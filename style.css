@@ -1,0 +1,172 @@
+.header{
+    background-color:#004080;
+    width: 100%;
+    height: 85px;
+}
+.body{
+    margin: 0px;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+
+    /* color: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none; */
+}
+.login-for{
+    width: 50%;
+    float: left;
+    
+}
+.logo-text{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    /* font-family: ; */
+    margin-left: 170px;
+
+}
+.login-label{
+    color: white;
+    font-size: 11px;
+}
+.login-controls{
+    padding-left: 115px;
+}
+.login{
+    padding-top: 10px;
+}
+.login-for{
+    color: #fff;
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.sub-btn{
+    background-color: #4267b2;
+    color: #fff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+
+}
+.sub-btn:hover{
+    background: red;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 140px;
+    padding-top: 45px;
+
+}
+.right-section{
+    width: 40%;
+    float: left;
+}
+.main-body{
+    background-color: linear-gradiant(white,#d3d8e8);
+    width: 100%;
+    height: 500px;
+}
+.image{
+    width: 500px;
+    margin-left: -90px;
+    margin-top: -23px;
+}
+.para{
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: -80px;
+   
+   
+}
+.two{
+    height: 24px;
+    width: 140px;
+    border-radius: 5px;
+    font-size: 15px;
+    border-color: 0.5px solid black;
+   
+    margin-left: 15px;
+}
+.one{
+    height: 24px;
+    width: 305px;
+    border-radius: 5px;
+    font-size: 15px;
+    border-color: 0.5px solid black;
+    margin-top: 20px;
+    margin-left: 15px;
+    
+
+}
+.selecter1{
+    margin-left: 15px;
+}
+.selecter1,.selecter2,.selecter3{
+    height: 28px;
+    /* margin-left: 15px; */
+}
+.selecter2,.selecter3{
+    margin-top: -5px;
+}
+.heading{
+    margin-left: 15px;
+    font-size: 35px;
+    font-weight: bold;
+}
+.birth{
+    font-size: 11px;
+    padding-left: 216px;
+    margin-top: -28px;
+    width: 150px;
+    text-decoration: underline; 
+    
+}
+.heading1{
+    margin-left: 15px;
+}
+.heading3{
+    margin-left: 15px;
+    font-size: 17px;
+    font-weight: 200;
+
+}
+.radio-container {
+    display: flex;
+    gap: 10px; 
+    margin-left: 15px;
+    font-size: 19px;
+    font-weight: 600;
+}
+
+label {
+    display: flex;
+    align-items: center;
+}
+.cook{
+    margin-left: 15px;
+}
+.enter{
+    margin-top: 20px;
+    height: 38px;
+    width: 170px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    border: 1px solid #006117;
+    border-radius: 3px;
+    cursor: pointer;
+    outline: none;
+    background: linear-gradient(#6fad5a,#66a150,#60974c);
+    margin-left: 15px;
+}
+.enter:hover{
+    background: linear-gradient(#74b85e,#598b45);
+}
+  
