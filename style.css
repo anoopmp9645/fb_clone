@@ -58,14 +58,16 @@
     background: red;
 }
 .left-section{
-    width: 40%;
+    width: 50%;
+     height: 500px;
     float: left;
     padding-left: 140px;
     padding-top: 45px;
 
 }
 .right-section{
-    width: 60%;
+    width: 50%%;
+     height: 500px;
     float: left;
 }
 .main-body{
